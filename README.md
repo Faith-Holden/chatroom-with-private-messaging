@@ -1,5 +1,9 @@
 # chatroom-with-private-messaging
 My solution for Chapter 12 Exercise 7 of “Introduction to Programming Using Java”.
+Implementation: as promised in the problem description(see below) this proved to be a difficult exercise for me. 
+The issues I encountered were having to figure out ways to work around private implementation. It seemed as though,
+without fail, if I wanted to overwrite a method, it was private in the super. However, despite a number of setbacks I was
+able to find a solution that I believe works well for what it was intended.
 
 NOTE: This is a javafx program. It requires the javafx library as a dependency. (See bottom of this README for javafx instructions).
 
